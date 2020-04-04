@@ -1,0 +1,1 @@
+﻿PowerShell -NoExit "C:\Users\nick.hickam\Desktop\O365_Test.ps1"

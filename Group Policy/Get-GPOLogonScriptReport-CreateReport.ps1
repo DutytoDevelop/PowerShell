@@ -1,0 +1,1 @@
+﻿.\Get-GPOLogonScriptReport.ps1 | Export-Csv -NoTypeInformation -Path 'GPOLogonScriptReport.csv'
