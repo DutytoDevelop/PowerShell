@@ -1,7 +1,7 @@
 # PowerShell
-PowerShell Script Repository
+# PowerShell Script Repository
 
-Script Categories:
+# Script Categories:
 
 Group Policy
 
