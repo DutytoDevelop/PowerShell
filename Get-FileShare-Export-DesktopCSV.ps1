@@ -1,2 +1,0 @@
-﻿$Computer = Read-Host "Computer Name: "
-Get-WmiObject -class Win32_Share -computer "$Computer.skillpoint.local" | Export-Csv -Path "$Home\Desktop\FileShare_$Computer.csv" -Force -Append -NoTypeInformation
