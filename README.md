@@ -1,5 +1,5 @@
 # PowerShell
-# PowerShell Script Repository
+PowerShell Script Repository
 
 # Script Categories:
 
